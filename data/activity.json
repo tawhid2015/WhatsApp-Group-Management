@@ -1,0 +1,79 @@
+[
+  {
+    "type": "connected",
+    "at": "2026-08-24T17:48:59.902Z"
+  },
+  {
+    "type": "connected",
+    "at": "2026-08-24T17:48:32.712Z"
+  },
+  {
+    "type": "connected",
+    "at": "2026-08-24T17:48:12.954Z"
+  },
+  {
+    "type": "connected",
+    "at": "2026-08-24T17:46:49.412Z"
+  },
+  {
+    "type": "connected",
+    "at": "2026-08-24T17:46:24.863Z"
+  },
+  {
+    "type": "connected",
+    "at": "2026-08-24T17:46:12.696Z"
+  },
+  {
+    "type": "connected",
+    "at": "2026-08-24T17:39:39.433Z"
+  },
+  {
+    "type": "connected",
+    "at": "2026-08-24T17:38:50.004Z"
+  },
+  {
+    "type": "connected",
+    "at": "2026-08-24T17:37:50.505Z"
+  },
+  {
+    "type": "sheets_error",
+    "message": "The operation was aborted due to timeout",
+    "at": "2026-08-24T17:12:57.095Z"
+  },
+  {
+    "type": "sheets_error",
+    "message": "The operation was aborted due to timeout",
+    "at": "2026-08-24T17:11:27.743Z"
+  },
+  {
+    "type": "manual_remove",
+    "phone": "01742367456",
+    "result": "success",
+    "at": "2026-08-24T17:09:48.245Z"
+  },
+  {
+    "type": "leave",
+    "phone": "01742367456",
+    "jid": "8801742367456@s.whatsapp.net",
+    "rawParticipant": {
+      "id": "105579573997680@lid",
+      "phoneNumber": "8801742367456@s.whatsapp.net",
+      "admin": null
+    },
+    "groupId": "120363411531137776@g.us",
+    "at": "2026-08-24T17:09:30.605Z"
+  },
+  {
+    "type": "connected",
+    "at": "2026-08-24T16:22:06.531Z"
+  },
+  {
+    "type": "disconnected",
+    "code": 503,
+    "at": "2026-08-24T16:22:00.987Z"
+  },
+  {
+    "type": "connected",
+    "at": "2026-08-24T15:51:39.027Z"
+  }
+]
